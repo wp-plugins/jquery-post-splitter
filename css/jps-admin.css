@@ -1,0 +1,11 @@
+/* CSS Document */
+
+a.jps_premium_link {
+    background-color: black;
+    border-radius: 16px;
+    color: gold;
+    float: right;
+    font-size: 12px;
+    padding: 4px 26px;
+    text-decoration: none;
+}
