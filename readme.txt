@@ -1,5 +1,5 @@
 === jQuery Post Splitter ===
-Contributors: fahadmahmood8
+Contributors: fahadmahmood
 Tags: post splitter, slider, paged posts, pagination, ajax, carousel, multi-page, nextpage
 Requires at least: 4.0
 Tested up to: 4.1
