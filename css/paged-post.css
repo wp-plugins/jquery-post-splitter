@@ -1,0 +1,62 @@
+.pagination-slider .jps-the-content{
+		margin-bottom:.813em 0;
+		}
+
+	.jps-slider-nav{
+		border-bottom:1px solid #ccc;
+		border-top:1px solid #ccc;	
+		font-size:1.9em;
+		font-weight:bold;
+		line-height: 1.5;
+		margin:1.3em 0;
+		min-height:1.2em;
+		text-transform:uppercase;
+		padding:.15em 0;
+		position:relative;
+		}
+
+		.jps-slide-count{
+			display:block;
+			text-align:center;
+			text-transform:none;
+			}
+
+		.jps-slider-nav .jps-next{
+			padding-right:.2em;
+			position:absolute;
+			right:0;
+			}
+
+		.jps-slider-nav .jps-prev{
+			left:0;
+			padding-left:.2em;
+			position:absolute;
+			}
+
+	.jps-slider-nav-bottom{
+		margin-top:2.45em;
+		text-align:left;
+		}
+
+	.jps-slider-nav-bottom.first-slide{
+	text-align:right;
+	}
+
+	.jps-slider-nav-bottom.first-slide .jps-next{
+		position:relative;
+		}
+	
+	.jps-slider-nav-bottom .jps-prev{
+		position:relative;
+		}
+
+/* new clearfix */
+.jps-clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+
