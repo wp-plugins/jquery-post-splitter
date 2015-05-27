@@ -98,7 +98,8 @@ function jps_free_options($ppscontent){
 			
 			global $post;
 			$post_parts = explode('<!--nextpage-->', $post->post_content);
-			if(!empty($post_parts)){
+			//if(!empty($post_parts)){
+			if ( count( $post_parts ) > 1 ) {
 				$page = 0; $numpages = count($post_parts);
 				foreach($post_parts as $content){ $page++;
 						
@@ -183,9 +184,12 @@ function jps_free_options($ppscontent){
 				
 				$ppscontent_arr[] = $ppscontent;
 				}
+				
+					return implode( ' ', $ppscontent_arr );
+
+			} else {
+					return $post->post_content;
 			}
-			return implode(' ', $ppscontent_arr);
-			//exit;
 			
 		}		
 		

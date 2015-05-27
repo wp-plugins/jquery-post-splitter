@@ -46,7 +46,7 @@ License: GPL3
 		
 		
 		
-	}else{
+	}elseif((is_single() || is_page())){
 		
 		include($jps_dir.'inc/jps-core-front.php');
 		
