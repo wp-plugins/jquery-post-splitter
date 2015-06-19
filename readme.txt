@@ -26,7 +26,7 @@ Wordpress has an excellent, but little known, [feature](http://codex.wordpress.o
 *	Optionally provides a link to view all slides on a single page.
 *	Optionally allows for scrolling back to top when each slide loads.
 *   Degrades gracefully. If the plugin is missing or uninstalled, posts will behave exactly like normal multi-page posts.
-* For a complete tutorials, join me here http://www.tutorsloop.net/app/live.php?id=3680109
+* For a complete tutorials, join me <a href="http://www.tutorsloop.net/app/live.php?id=3680109" target="_blank">here</a>
 
 == Installation ==
 
