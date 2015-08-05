@@ -3,7 +3,7 @@ Contributors: fahadmahmood
 Tags: post splitter, slider, paged posts, pagination, ajax, carousel, multi-page, nextpage
 Requires at least: 4.0
 Tested up to: 4.1
-Stable tag: 1.3
+Stable tag: 2.0
 License: GPL3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
